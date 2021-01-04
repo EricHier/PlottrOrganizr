@@ -1,4 +1,7 @@
 # PlottrOrganizr
+
+> OUTDATED - new Software  [`Craft Files`](https://github.com/EricHier/craft-files). Improved usability and additional features.
+
 An application for managing your plotter files on a neat website. 
 
 ## What does this application do? 
